@@ -16,6 +16,8 @@
   "license": "ISC",
   "dependencies": {
     "@vimeo/player": "^2.21.0",
+    "flatpickr": "^4.6.13",
+    "izitoast": "^1.4.0",
     "lodash.throttle": "^4.1.1",
     "simplelightbox": "^2.14.2",
     "vite-plugin-full-reload": "^1.0.5",
